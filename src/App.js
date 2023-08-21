@@ -1,25 +1,31 @@
-import logo from './logo.svg';
-import './App.css';
+import Inicio from "./TELAS/Inicio/Inicio";
+import { Button } from "@mui/material";
+import Stack from "@mui/material";
+import Login from "./TELAS/Login/Login";
+import Recuperar from "./TELAS/Recuperar/Recuperar";
+import Cadastro from "./TELAS/Cadastro/Cadastro";
+import Adicionais from "./TELAS/Adicionais/Adicionais";
+import Informações from "./TELAS/Informacoes/Informacoes";
+import Salvamento from "./TELAS/Salvamento/Salvamento";
+import Conexão from "./TELAS/Conexao/Conexao";
+import Home from "./TELAS/Home/Home";
+import Chat from "./TELAS/Chat/Chat";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+function App(){
+    return(
+        <>
+        {/* <Inicio/> */}
+        {/* <Login/> */}
+        {/* <Recuperar/> */}
+        {/* <Cadastro/> */}
+        {/* <Adicionais/> */}
+        {/* <Informações/> */}
+        {/* <Salvamento/> */}
+        {/* <Conexão/> */}
+        {/* <Home/> */}
+        <Chat/>
+        </>
+    )
 }
 
-export default App;
+export default App; 
