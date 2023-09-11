@@ -1,0 +1,41 @@
+.medicoForm {
+    margin: 0 auto;
+    margin-top: 40px;
+    max-width: 280px;
+    padding: 40px;
+    border-radius: 35px;
+    background-color: #f9f9f9;
+    margin-bottom: 65px;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+
+  button {
+    background-color: #E2B1E6;
+    color: #fff;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 19px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+  

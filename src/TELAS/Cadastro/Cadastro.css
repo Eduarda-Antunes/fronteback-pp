@@ -1,0 +1,66 @@
+.back{
+    background-image: url('../../assets/fundoVerdeRoxo.png');
+    background-size: 125%;
+    height: 896vh;
+    background-repeat: no-repeat;
+}
+
+h2{
+    font-size: 55px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 15px;
+    font-size: 18px;
+    text-align: center;
+    color: white;
+}
+
+.formContainer {
+    margin: 0 auto;
+    margin-top: 40px;
+    max-width: 280px;
+    padding: 40px;
+    border-radius: 35px;
+    background-color: #f9f9f9;
+    margin-bottom: 65px;
+  }
+  
+.formulario {
+    display: inline-block;
+    text-align: left;
+    background-color: #f9f9f9;
+}
+  
+label {
+    display: block;
+    font-weight: bold;
+    margin-top: 15px;
+}
+  
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="date"] {
+    width: 88%;
+    padding: 17px;
+    margin-top: 5px;
+    border: 1px solid #e2b1e665;
+    border-radius: 15px;
+    background-color: #e2b1e665;
+}
+
+.botao {
+    background-color: #E2B1E6;
+    color: #fff;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 19px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
