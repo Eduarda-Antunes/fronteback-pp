@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import Avatar from '@mui/material/Avatar';
 import Stack from '@mui/material/Stack';
 import React from 'react';
@@ -31,3 +32,15 @@ function Chat() {
 export default Chat;
 
 
+=======
+
+function Chat (){
+    return(
+        <>
+
+        </>
+    )
+}
+
+export default Chat;
+>>>>>>> 10eaba776ab34084a661621861719b0539d1f35a

@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+=======
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+>>>>>>> 10eaba776ab34084a661621861719b0539d1f35a
 .Footer{
     background-color: #E2B1E6;
     padding: 22px;

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 img{
     padding-top: 80px;
     padding-left: 20px;
@@ -34,4 +35,14 @@ img{
     padding: 20px 30px;
     border-radius: 15px;
     border-color: #E2b1e6;
+=======
+*{
+    padding: 0;
+    margin-top: 0;
+    box-sizing: border-box;
+}
+
+.button{
+    background-color: blueviolet;
+>>>>>>> 10eaba776ab34084a661621861719b0539d1f35a
 }
