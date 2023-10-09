@@ -1,0 +1,70 @@
+img{
+  padding-left: 38px;
+}
+
+.fundoRecuperar{
+    height: 100%;
+    background-color: #bce1be;
+    border-radius: 40px 40px 0px 0px;
+    margin-top: 25px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.emailContainer {
+    margin: 0 auto;
+    max-width: 300px;
+    padding: 25px;
+    border: 1px solid #ccc;
+    border-radius: 35px;
+    background-color: #f9f9f9;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+    color: rgb(106, 106, 106);
+    padding-right: 75%;
+  }
+  
+  input[type="email"] {
+    width: 88%;
+    padding: 17px;
+    margin-top: 7px;
+    border: 1px solid #e2b1e665;
+    border-radius: 15px;
+    background-color: #e2b1e665;
+  }
+  
+  button {
+    background-color: #E2B1E6;
+    color: #fff;
+    padding: 15px 50px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 19px;
+    margin-top: 17px;
+    margin-right: 65px;
+  }
+  
+  .minitex{
+    color: rgb(106, 106, 106);
+    font-size: 13px;
+    margin-top: 12px;
+  }
+
+  .textRec{   
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 8px;
+    font-weight: bold;
+    font-size: 53px;
+    text-align: center;
+    color: white;
+    height: 22vh;
+  }
